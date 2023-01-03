@@ -6,9 +6,9 @@
     "axios": "^0.17.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0",
+    "react-scripts": "5.0.1",
     "react-style-comp": "^1.2.3",
-    "webpack": "^3.10.0"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "react-scripts start",
